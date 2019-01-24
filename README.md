@@ -6,3 +6,6 @@
 ## Section 2: Some tooks 
 -weka- 
 rapid minor
+## Use cases 
+-customer segmentation 
+-customer turn
