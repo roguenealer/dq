@@ -1,2 +1,5 @@
 # dq
-first data quality report
+
+## Section 1: first data quality report
+- Python 
+- R 
