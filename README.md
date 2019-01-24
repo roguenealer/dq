@@ -8,4 +8,3 @@
 rapid minor
 ## Use cases 
 -customer segmentation 
--customer turn
