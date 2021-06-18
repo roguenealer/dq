@@ -1,4 +1,4 @@
-# dq
+# Data Quality 
 
 ## Section 1: first data quality report
 - Python 
